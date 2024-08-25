@@ -11,10 +11,6 @@ body {
   font-weight: bold;
 }
 
-#searchBar {
-  width: 600px;
-}
-
 .d-flex {
   display: flex !important;
   align-items: center;
