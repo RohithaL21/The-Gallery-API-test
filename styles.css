@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(13, 110, 253, 1) !important;
+}
+
+#header {
+  margin-top: 20px;
+}
+
+#title {
+  color: white;
+  font-weight: bold;
+}
+
+#searchBar {
+  width: 600px;
+}
+
+.d-flex {
+  display: flex !important;
+  align-items: center;
+}
+
+#photoDisplay {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 20px;
+  width: 1280px;
+  height: 750px;
+}
+
+#keywords {
+  padding-top: 20px;
+}
+
+#photoContainer > img{
+  width: 400px;
+  margin-left: 10px;
+}
